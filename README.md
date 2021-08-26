@@ -14,6 +14,6 @@
 
 7-Neural Network
 
-8-DL, convolutional neural network
+8-Deep Learning, convolutional neural network
 
 9-Unsupervised Learning
